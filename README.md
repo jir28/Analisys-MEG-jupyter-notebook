@@ -1,2 +1,2 @@
 # Analisys-MEG-jupyter-notebook
-Program builded in jupyter notebook of Magnetoencephalografy
+Program made in the jupyter magnetoencephalography notebook
